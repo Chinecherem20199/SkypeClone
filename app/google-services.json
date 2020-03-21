@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "913973659529",
+    "firebase_url": "https://skype-app-7aa0a.firebaseio.com",
+    "project_id": "skype-app-7aa0a",
+    "storage_bucket": "skype-app-7aa0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913973659529:android:be7f50afd72d1fa5924358",
+        "android_client_info": {
+          "package_name": "nigeriandailies.com.ng.skypeclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913973659529-nvh13776fn1e26ss9dl4lijarut26nfd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nigeriandailies.com.ng.skypeclone",
+            "certificate_hash": "8ae905f7688e2dd695f59f6a8ca1b5fa39961a7e"
+          }
+        },
+        {
+          "client_id": "913973659529-19jo43himie7v7iagu67r745vkdr7lbm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnzwt0N9nKfOKeAdFTJ2r0XRX6igoWIzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913973659529-19jo43himie7v7iagu67r745vkdr7lbm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
